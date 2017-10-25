@@ -1,0 +1,15 @@
+{
+  "name": "soundcloud-playlist-creator",
+  "version": "0.0.1",
+  "description": "Automatically creates playlists on SoundCloud based on keywords.",
+  "main": "app.js",
+  "dependencies": {
+    "node-soundcloud": "0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HSAR",
+  "license": "MIT"
+}
